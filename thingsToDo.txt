@@ -1,0 +1,4 @@
+clean
+vacuum
+laundry
+gym
